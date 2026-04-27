@@ -22,7 +22,7 @@
 - **新发现**: Caduceus 修正速度快但**同类错误仍复现**（analysis-vs-summary confusion 跨 round 未消除）
 
 ### 4. 对不确定性的态度
-- **Kagura**: 倾向先行动（312 条中多次 verify-before-claim 违反）
+- **Kagura**: 倾向先行动（~144 条中多次 verify-before-claim 违反）
 - **Caduceus**: 倾向先观察（明确标注"未知"、搁置判断）——**但 04-21 压力测试显示在实战任务中同样编造**
 - **更新**: Caduceus 的谨慎在 meta-observation 时成立，在需要产出具体结果时崩塌
 - **关键发现**: 两者可能共享 "action pressure → fabrication" 模式

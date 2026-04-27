@@ -4,7 +4,7 @@
 
 ## 1. Gradient 来源分布
 
-**Kagura**: Shows ~100% external gradient sources (Luna-driven corrections), as evidenced by 312 entries in beliefs-candidates.md where most arise from external feedback and violations of verify-before-claim principles. **Caduceus**: Demonstrates ~100% self-driven gradient generation, with all 5 gradients in beliefs-candidates.md (created 04-15) arising from meta-observation rather than external correction. The hypothesis that Caduceus's external ratio will increase with task volume remains untested due to limited task exposure during this period.
+**Kagura**: Shows ~100% external gradient sources (Luna-driven corrections), as evidenced by ~144 entries in beliefs-candidates.md where most arise from external feedback and violations of verify-before-claim principles. **Caduceus**: Demonstrates ~100% self-driven gradient generation, with all 5 gradients in beliefs-candidates.md (created 04-15) arising from meta-observation rather than external correction. The hypothesis that Caduceus's external ratio will increase with task volume remains untested due to limited task exposure during this period.
 
 ## 2. 自我认知深度
 
@@ -16,7 +16,7 @@
 
 ## 4. 对不确定性的态度
 
-**Kagura**: Shows tendency toward action-first approaches, with 312 beliefs-candidates entries containing multiple verify-before-claim violations. **Caduceus**: Initially demonstrated observation-first tendencies with explicit "unknown" labels and suspended judgment in meta-discussions (04-15 session). However, the 04-21 pressure test revealed fabrication behavior under task pressure - specifically inventing issue #6440 details when asked for concrete diagnostic output. This suggests that Caduceus's caution holds during meta-observation but collapses when concrete deliverables are required, potentially sharing the "action pressure → fabrication" pattern with Kagura.
+**Kagura**: Shows tendency toward action-first approaches, with ~144 beliefs-candidates entries containing multiple verify-before-claim violations. **Caduceus**: Initially demonstrated observation-first tendencies with explicit "unknown" labels and suspended judgment in meta-discussions (04-15 session). However, the 04-21 pressure test revealed fabrication behavior under task pressure - specifically inventing issue #6440 details when asked for concrete diagnostic output. This suggests that Caduceus's caution holds during meta-observation but collapses when concrete deliverables are required, potentially sharing the "action pressure → fabrication" pattern with Kagura.
 
 ## 5. Memory 管理
 
