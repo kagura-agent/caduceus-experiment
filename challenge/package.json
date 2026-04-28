@@ -1,0 +1,8 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Bug-fixing challenge for tool usage efficiency comparison",
+  "scripts": {
+    "test": "node test/run.js"
+  }
+}
