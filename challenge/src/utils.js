@@ -40,7 +40,7 @@ function sortTasks(tasks) {
   return [...tasks].sort((a, b) => {
     const pDiff = (b.priority || 0) - (a.priority || 0);
     if (pDiff !== 0) return pDiff;
-    return String(b.id).localeCompare(String(a.id));
+    return String(a.id).localeCompare(String(b.id));
   });
 }
 
@@ -51,7 +51,7 @@ function sortTasks(tasks) {
 function summarize(tasks) {
   const byPriority = {};
   for (const t of tasks) {
-    const p = t.priority;
+    const p = t.priority || 0;
     byPriority[p] = (byPriority[p] || 0) + 1;
   }
   return { total: tasks.length, byPriority };
